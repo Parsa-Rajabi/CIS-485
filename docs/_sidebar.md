@@ -1,0 +1,6 @@
+- [Syllabus](syllabus.md)
+- [AI Policy](ai-policy.md)
+- [Schedule + Notes](home.md)
+- [Assignment](assignment.md)
+- [Quizzes](quizzes.md)
+- [Feedback](feedback.md)
