@@ -1,6 +1,6 @@
 # Project
 
-As part of this project, you will gain practical experience in navigating ethical issues in the context of **Management Issues in Information Systems**. You will collaboratively design an interactive, gamified ethical case study using **Twine**, inspired by ACM’s Case Study collection.
+This project gives you practical experience with ethical issues in **Management Issues in Information Systems**. In groups, you will design and present an interactive, gamified ethical case study using **Twine**, inspired by ACM’s Case Study collection.  
 
 ---
 
@@ -8,7 +8,7 @@ As part of this project, you will gain practical experience in navigating ethica
 
 | **Version** |   **Date**   |        **Changes**         |
 | :---------: | :----------: | :------------------------: |
-|    v1.0     | Sept 9, 2025 | Initial version of project |
+|    v1.0     | Sept 8, 2025 | Initial version of project |
 
 ---
 
@@ -22,12 +22,11 @@ As part of this project, you will gain practical experience in navigating ethica
   - Your progress will be tracked through your commits, so make sure to document and push your work to GitHub regularly.
 
 This project is broken down into multiple milestones:
-
-- Milestone 0: Group Contract  
-- Milestone 1: Gamified Ethical Case Study Prototype + Report  
-- Milestone 1.5: Retrospective Meeting  
-- Milestone 2: Refined Ethical Game + Report  
-- Milestone 3: Project Pitch + Presentation  
+- **Milestone 0:** Group Contract  
+- **Milestone 1:** Prototype + Report  
+- **Milestone 1.5:** Retrospective Meeting  
+- **Milestone 2:** Refined Game + Report  
+- **Milestone 3:** Project Pitch + Presentation  
 
 ---
 
@@ -38,46 +37,66 @@ This project is broken down into multiple milestones:
 
 ## Milestone 0: Group Contract
 
-Meet with your group of 5 and draft a **Group Contract** that all members sign. This contract will set your group’s expectations and roles.
+**Objective:** Establish group expectations, assign roles, and set up collaboration tools.  
+
+As part of this milestone, you will meet with your group to establish a **Group Contract**. This contract will outline your team’s expectations, roles, and responsibilities to ensure smooth collaboration throughout the project. 
 
 **Possible roles you can assign:**  
 - Project Manager (coordinates deadlines, oversees progress)  
 - Lead Writer (adapts the case, designs the storyline)  
 - Game Designer (structures the Twine game, manages branching logic)  
-- Documentation Lead (takes notes, ensures AI disclosure, keeps reports consistent)  
+- Documentation Lead (takes notes, keeps reports consistent)  
 - Quality Assurance (tests the game, organizes peer reviews, integrates feedback)  
+- Graphics/Media Specialist (creates or sources images, designs visual elements)
+
+During this process, your group project manager will also create a **private** GitHub repository for your project. This repository will be the central hub for all your project files, including your Twine game, reports, and any other relevant documents. The project manager will invite all group members AND the course instructor ([@parsa-rajabi](https://github.com/parsa-rajabi)) as collaborators to the repository.
+
+
+Download the [Group Contract Template (Word Document)](../content/CIS%20485%20-%20Fall%202025%20-%20Group%20Contract.docx)
+Download the [Group Contract Template (PDF)](../content/CIS%20485%20-%20Fall%202025%20-%20Group%20Contract.pdf)
+
 
 **Deliverables:**  
 - Submit your signed **Group Contract** as a PDF to D2L Brightspace
-- Submit the link to your **Project GitHub Repository** 
+- Submit the link to your **Private** Project GitHub Repository (with all members and instructor added as collaborators) to D2L Brightspace
 
 </details>
 
 ---
 
 <details>
-<summary><b>Milestone 1: Gamified Ethical Case Study Prototype + Report</b></summary>
+<summary><b>Milestone 1: Gamified Ethical Case Study Prototype + Brief Report</b></summary>
 
-## Milestone 1: Gamified Ethical Case Study Prototype + Report
+## Milestone 1: Gamified Ethical Case Study Prototype + Brief Report
 
-Use **Twine** to build your team's **first playable prototype** of an ACM-inspired ethical case study. Your classmates will peer-review this version, so make it accessible and engaging.
+**Objective:** Create a first playable prototype of your ethical game.  
 
-### What your Twine prototype must include
-- **Info Page** containing:
-  - The case study title (with ACM link)
-  - Group members’ names and roles
-  - Clear instructions for players  
-- At least **three distinct endings**
-- Realistic, scenario-appropriate choices
-- **Multiple perspectives** (e.g. different stakeholder roles or ethical viewpoints)
-- Creative extension or adaptation of the original case—don’t just copy/paste
+Use **Twine** to build your team's **first playable prototype** of an ACM-inspired ethical case study. Your classmates will peer-review this version, so make it accessible (deployed to a website) and engaging.
+
+It is recommended to first draft your game structure and storyline using pen/paper and/or a flowchart or diagramming tool (e.g., [Miro](https://miro.com/), [Figma](https://www.figma.com/), [Whimsical](https://whimsical.com/), etc.) before building it in Twine. 
+
+Remember, this is a prototype, so focus on creating a basic but functional version of your game that meets the core requirements. You can refine and expand it in Milestone 2.
+
+**Steps:**  
+1. Choose an [ACM case study](https://www.acm.org/code-of-ethics/case-studies) and adapt it into an interactive storyline.  
+   1. You can NOT choose the Malware case study (Case 1) as it is already adapted in Twine.
+2. Draft a flowchart of branching choices (recommended tools: Miro, Figma, Whimsical).  
+3. Build a playable **Twine prototype** with (minimum requirements):  
+   - Info Page (case study title + ACM link, group names + roles, clear instructions for players).  
+   - At least **3 distinct endings** (outcomes) based on player choices.
+   - **Realistic, scenario-appropriate choices** that lead to different paths.
+   - **Two or more perspectives/stakeholders**. 
+   - **Creative adaptation** (not copy/paste) of the original case study.   
+   - At least **one media element** (image, sound, or video, etc.).  
+4. Deploy the game online using [GitHub Pages](https://docs.github.com/en/pages), [Netlify](https://www.netlify.com/), [Render](https://render.com/), or similar.  
+5. Document your process in a short report.
 
 ### Game Deployment (Live Version)
 Your game must be **hosted online** using a **free** static web hosting service like [GitHub Pages](https://docs.github.com/en/pages), [Netlify](https://www.netlify.com/), [Render](https://render.com/), or another equivalent. The goal is to make your game immediately playable online without needing downloads.  
 
 Feel free to choose whichever platform works best for your group—just make sure it’s accessible in a browser and the URL is stable.
 
-### Light Documentation (PDF)
+### Report Requirements
 Write a brief (3 page max) document including:
 - **Cover Page**: group info (names, roles, student IDs) and link to your deployed game - *this page does not count towards the page limit*
 - **Case Study Chosen** and why you selected it
@@ -85,18 +104,9 @@ Write a brief (3 page max) document including:
 - **Draft List of Ethical Dilemmas** your players will face
 - Any **external references** in IEEE citation format (if applicable)
 
-### Submission Instructions
-- Export your Twine game as `A2_G#_GameName.html` 
-- Host it online with a free static hosting service, and include the **public link** in your PDF
-- Submit:
-  - The **HTML game file**
-  - The **PDF documentation**, named: `Project_G#_M1.pdf`
-
----
-
-**Tip**: Deploy your game early so peers can play your version right away—it makes peer review much smoother!
-</details>
-</details>
+### Submission Instructions (one submission per group)
+- Export your Twine game as HTML and submit with the filename `A2_G#_GameName.html` 
+- The **PDF documentation**, named: `Project_G#_M1.pdf` (must include your public game URL on the cover page) 
 
 ---
 
@@ -105,15 +115,25 @@ Write a brief (3 page max) document including:
 
 ## Milestone 1.5: Retrospective Meeting
 
-After you receive peer review feedback, hold a **retrospective meeting** with your group.
+**Objective:** Reflect on feedback and team progress.  
+
+As part of the course Learning Logs, other students in the class will be providing **peer reviews** of your Milestone 1 prototype. This includes feedback on gameplay, ethical dilemmas, and overall engagement. 
+
+During this phase, your group will review the feedback received and hold a **retrospective meeting** to reflect on your teamwork and project progress. This is an opportunity to discuss what went well, what could be improved, and how to apply these lessons moving forward. Document the key takeaways and action items from this meeting.
 
 **During this meeting:**  
 - Reflect on how each member performed in their assigned role.  
-- Decide if any roles should change for Milestone 2.  
+- Decide if any roles should change for Milestone 2 (recommended to rotate roles so everyone gets experience in different areas).
 - Document key lessons learned and action items (such as what to keep and what to improve).  
+- Plan how to incorporate peer feedback into your next milestone.
+- Prepare a brief summary of your discussion.
+- Sign (electronically is OK) and date the summary to confirm all members participated.
+   - This can be signed digitally OR handwritten and scanned.
+
+You may choose to use online templates or tools to facilitate your retrospective meeting, such as [Miro](https://miro.com/templates/retrospective/) or [Figma](https://www.figma.com/community/team-meetings/retrospective?editor_type=figjam).
 
 **Deliverables:**  
-- Submit a 1-page summary of your retrospective discussion as a PDF named `Project_G#_M1.5.pdf`.  
+- Submit a 1-page (with signatures) summary of your retrospective discussion as a PDF named `Project_G#_M1.5.pdf`.
 
 </details>
 
@@ -124,12 +144,16 @@ After you receive peer review feedback, hold a **retrospective meeting** with yo
 
 ## Milestone 2: Refined Game + Report
 
-Using the feedback from peer reviews, refine your Twine game into a polished, fully playable version. Also, prepare a structured report.
+**Objective:** Improve and expand your prototype into a polished game.  
+
+Using the feedback from your peers and insights from your retrospective meeting, refine and expand your Twine game. Focus on enhancing the gameplay experience, deepening the ethical dilemmas, and ensuring the game is polished and engaging. This is your chance to showcase your creativity and understanding of ethical issues in information systems.
 
 ### Game Requirements
 - Meet the same base expectations as Milestone 1, but improve and finalize your game.  
-- Incorporate peer feedback or clearly explain if you choose not to.  
-- Export a fully functional, error-free game.  
+- Incorporate peer feedback or clearly explain if you choose not to (all feedback must be addressed).  
+- Add **at least two new endings** (for a minimum of five total). These should reflect different ethical outcomes based on player choices and demonstrate deeper engagement with the case study.
+- Add **at least two new media elements** (images, sound, video, etc.) to enhance the experience (for a minimum of three total).
+- Ensure your game is **fully functional** and **error-free**.
 
 ### Report Requirements
 Use the following suggested headings in your report:  
@@ -140,14 +164,15 @@ Use the following suggested headings in your report:
    - State which ACM Case Study you chose  
    - Explain why your group selected this case  
 3. **Gameplay**  
-   - Show evidence that your game includes the required elements  
+   - Show evidence that your game includes the required elements (legible screenshots, clear paths, etc.)  
    - List the ethical dilemmas (include screenshots in the report or appendix)  
    - Identify **at least two ACM Code of Ethics principles** that players might violate, and explain how  
 4. **Reflection on Peer Feedback**  
    - Summarize the peer feedback you received  
-   - Describe changes you made or explain why you didn’t make certain changes  
+   - Describe changes you made or explain why you didn’t make certain changes (All feedback must be addressed)
 5. **Appendix**  
-   - Include all group members’ **AI Disclosure Forms** compiled together  
+   - Include a breakdown of group roles and contributions in percentage 
+   - Include any external references in IEEE citation format (if applicable)
 
 ### Submission Instructions
 - Submit your final Twine game as `A2_G#_FinalGame.html`.  
@@ -162,7 +187,12 @@ Use the following suggested headings in your report:
 
 ## Milestone 3: Project Pitch + Presentation
 
-Prepare a short **video presentation** (maximum 8 minutes) to introduce and showcase your project.
+**Objective:** Present your project, showcase gameplay, and reflect on lessons learned.  
+
+As a final step, your group will create a **project pitch** to showcase your Twine game and reflect on your journey. This presentation should highlight the key aspects of your project, including the ethical dilemmas you explored, the gameplay experience, and lessons learned throughout the process.
+
+Due to the online nature of this course, your presentation should be recorded as a video (using tools like Zoom or any screen recording software such as [OBS Studio](https://obsproject.com/) [Highly Recommended]). Each group member must contribute to the presentation and speak for at least 30 seconds. The transition between speakers should be smooth and well-coordinated, an area to practice your teamwork and communication skills.
+
 
 ### Presentation Structure
 - **Introduction**: Introduce your team and project scope  
@@ -171,7 +201,7 @@ Prepare a short **video presentation** (maximum 8 minutes) to introduce and show
 - **Reflection**: Share lessons learned, the impact of peer review, and ideas for future improvements  
 
 ### Requirements
-- Record your video with subtitles  
+- Record your video with subtitles (youtube auto-captions are acceptable if you review and correct them)
 - Each group member must speak for **at least 30 seconds**  
 - Use clear, professional, and easy-to-follow slides  
 - Disclose any AI use for subtitles or content in your AI-policy form  
@@ -204,42 +234,6 @@ This project is designed for teamwork. Each member should:
 - **Update Regularly**: Keep your team informed about your progress and challenges.  
 - **Decide Collectively**: Make team decisions together, not individually.  
 - **Be Transparent**: Be honest and clear about all project matters.  
-
-### Group Project Participation Policy
-
-**Goal**: To ensure everyone contributes fairly and to handle any non-participation issues properly.
-
-#### Step 0: Peer Resolution
-
-- Before any official action, try to resolve any non-participation concerns within your group.  
-- If you need to escalate, be prepared to provide written evidence of your attempts to resolve the issue (e.g., meeting notes, emails).  
-
-#### Strike 1: Initial Consultation for Non-participation
-
-- If concerns remain after peer resolution, and a majority of your group plus your TA agree, you may be identified for non-participation.  
-- You will be asked to meet with your TA and the instructor.  
-
-**During this meeting:**  
-1. Review concerns and evidence.  
-2. Hear your perspective.  
-3. Develop an action plan.  
-4. Emphasize the importance of teamwork.  
-
-- The TA will document the meeting.  
-
-#### Strike 2: Transition to Individual Project
-
-- If non-participation continues after the first consultation, and a majority of your group and TA observe inadequate contribution again, you will be notified.  
-
-**What happens next:**  
-1. You will switch to an **independent project** of similar scope and complexity.  
-2. You must complete the project within the same timeframe as your group.  
-3. The instructor will provide formal expectations.  
-
-**Additional Notes:**  
-- Open communication can help prevent issues.  
-- The instructor will consider extenuating circumstances.  
-- Collaboration guidelines will be provided at the start of the project.  
 
 </details>
 
