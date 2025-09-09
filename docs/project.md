@@ -2,15 +2,11 @@
 
 This project gives you practical experience with ethical issues in **Management Issues in Information Systems**. In groups, you will design and present an interactive, gamified ethical case study using **Twine**, inspired by ACM’s Case Study collection.  
 
----
-
 ## Changelog
 
 | **Version** |   **Date**   |        **Changes**         |
 | :---------: | :----------: | :------------------------: |
 |    v1.0     | Sept 8, 2025 | Initial version of project |
-
----
 
 ## Structure
 
@@ -50,10 +46,6 @@ As part of this milestone, you will meet with your group to establish a **Group 
 - Graphics/Media Specialist (creates or sources images, designs visual elements)
 
 During this process, your group project manager will also create a **private** GitHub repository for your project. This repository will be the central hub for all your project files, including your Twine game, reports, and any other relevant documents. The project manager will invite all group members AND the course instructor ([@parsa-rajabi](https://github.com/parsa-rajabi)) as collaborators to the repository.
-
-
-Download the [Group Contract Template (Word Document)](../content/CIS%20485%20-%20Fall%202025%20-%20Group%20Contract.docx)
-Download the [Group Contract Template (PDF)](../content/CIS%20485%20-%20Fall%202025%20-%20Group%20Contract.pdf)
 
 
 **Deliverables:**  
@@ -108,6 +100,7 @@ Write a brief (3 page max) document including:
 - Export your Twine game as HTML and submit with the filename `A2_G#_GameName.html` 
 - The **PDF documentation**, named: `Project_G#_M1.pdf` (must include your public game URL on the cover page) 
 
+</details>
 ---
 
 <details>
