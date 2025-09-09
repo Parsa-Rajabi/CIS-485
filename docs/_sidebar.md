@@ -2,4 +2,5 @@
 - [Schedule + Notes](home.md)
 - [Assignment](assignment.md)
 - [Quizzes](quizzes.md)
+- [Project](project.md)
 - [Feedback](feedback.md)

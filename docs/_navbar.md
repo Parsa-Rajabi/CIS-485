@@ -1,4 +1,5 @@
 - [Syllabus](syllabus.md)
 - [Schedule + Notes](home.md)
 - [Assignment](assignment.md)
+- [Project](project.md)
 - [Feedback](feedback.md)
