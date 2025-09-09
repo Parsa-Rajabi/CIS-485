@@ -129,6 +129,20 @@ In addition to these requirements, students must have access to the following te
 
 The maximum score for each course component is 100%. The final grade will be calculated based on the weighted average of the components.
 
+## Assignment
+The course includes one individual assignment, which involves completing the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2: CORE-2022) course. This assignment is designed to provide foundational knowledge on ethical principles and guidelines for conducting research responsibly. Refer to the [As#signment page](assignment.md) for detailed instructions and submission guidelines.
+
+### Learning Logs 
+Learning logs are short, reflective exercises designed to help you engage with the course material and apply it to real-world scenarios. They will be assigned periodically throughout the course and are intended to encourage critical thinking and personal reflection on the topics covered.
+
+All learning logs must be completed through D2L Brightspace's discussion board and completed individually.
+
+### Quizzes 
+There will be two quizzes (+ syllabus quiz) during the semester, designed to assess your understanding of the course material. Quizzes will be conducted online through D2L Brightspace and will cover topics discussed in class and assigned readings. For more details, please refer to the [Quiz page](quizzes.md).
+
+### Project
+The course project is a significant component of this course, designed to provide hands-on experience in applying ethical principles to real-world scenarios. You will work in groups to create an interactive Twine game based on a selected case study, allowing you to explore and present ethical dilemmas in an engaging format. For more details, please refer to the [Project page](project.md).
+
 
 ### Letter Grade Conversion
 ![](images/grade_letters.png)
