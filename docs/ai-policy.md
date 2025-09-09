@@ -2,8 +2,7 @@
 
 ## Disclosure of AI Use
 
-<!-- TODO -->
-- [Link to the AI Use Disclosure Form]()
+- [Link to the AI Use Disclosure Form](https://forms.office.com/r/jLUZtdGJrC)
 
 ## Policy on the Use of AI Content Generators for Coursework.
 
@@ -77,10 +76,6 @@ Select one of the following options (make sure to include the icon/emoji) to ind
 </details>
 
 </div>
-
-## AI Use for Assignment 3
-
-Although the use of AI tools is permitted for the assignments, the teaching team will be more stringent in auditing the use of AI tools for assignment 3. This is to ensure that students are not overly dependent on AI tools and that they are able to demonstrate their understanding of the course material. The instructor will conduct interviews with students to discuss their use of AI tools for assignment 3 and assess their understanding of the assignment content. Students who are unable to demonstrate their understanding of assignment 3 will be penalized through grade deductions and/or other measures.
 
 ## Audits of AI Disclosure Forms and Student Work
 
