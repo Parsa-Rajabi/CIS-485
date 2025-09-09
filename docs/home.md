@@ -15,7 +15,8 @@ All course slides are password protected. Visit course info page on D2L Brightsp
 | **Wk#** | **Date** | **Modality** |                  **Topic**                  | **Course Notes** | **Learning Logs** |  **Assignment**  |  **Project**  |
 | :-----: | :------: | :----------: | :-----------------------------------------: | :--------------: | :---------------: | :--------------: | :-----------: |
 |    1    |  Sep 9   |    Async.    |      No Class - Complete Quiz 0 + LL0       |      Quiz 0      |   LL0 (Sept 15)   |                  |               |
-|    2    |  Sep 16  |    `Live`    |         Syllabus + Intro to Ethics          |      Slides      |                   | Part 1 (Sept 25) |               |
+|    2    |  Sep 16  |    `Live`    |         Syllabus + Intro to Ethics          |      Slides      |                   |                  |               |
+|    3    |  Sep 23  |    Async.    |               Learning Log 1                |                  |   LL1 (Sept 24)   | Part 1 (Sept 25) |               |
 |    4    |  Sep 30  | **No Class** | _National Day for Truth and Reconciliation_ |                  |                   |                  |  M0 (Oct 2)   |
 |    5    |  Oct 7   |    `Live`    |       ACM Code of Ethics + AI Ethics        |      Slides      |                   |                  |               |
 |    6    |  Oct 14  |    Async.    |               Learning Log 2                |                  |   LL2 (Oct 15)    | Part 2 (Oct 16)  |               |
