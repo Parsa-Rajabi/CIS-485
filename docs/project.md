@@ -30,7 +30,7 @@ This project is broken down into multiple milestones:
 
 As part of this milestone, you will meet with your group to establish a **Group Contract**. This contract will outline your team’s expectations, roles, and responsibilities to ensure smooth collaboration throughout the project. 
 
-Download group contract templates from [D2L Brightspace assignment page](https://brightspace.ufv.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=19130&isprv=0&db=34842&cfql=1).
+Download group contract templates from D2L Brightspace assignment page.
 
 **Possible roles you can assign:**  
 - Project Manager (coordinates deadlines, oversees progress)  
