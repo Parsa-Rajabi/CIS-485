@@ -4,7 +4,7 @@
 > This is an individual assignment and must be completed without collaboration with other students.
 
 ### Context: TCPS 2: CORE-2022 (Course on Research Ethics)
-In order to conduct academic research with human subjects, you must first successfully complete the Tri-Council's Course on Research Ethics (CORE).  The entire course should take approximately 4-5 hours, so it has been split over a few weeks to give you plenty of time.  
+The Tri-Council Ethics Training (TCPS 2: CORE-2022) is a mandatory course for anyone involved in research with human participants in Canada. This course provides foundational knowledge on ethical principles and guidelines for conducting research responsibly. The entire course should take approximately 4-5 hours, so it has been split over a few weeks to give you plenty of time.  
 
 ### Part 1 - Tasks
 - Create an account on the Panel on Research Ethics website [TCPS 2: CORE-2022](https://tcps2core.ca/welcome).
