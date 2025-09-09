@@ -18,13 +18,6 @@ This project gives you practical experience with ethical issues in **Management 
   - Your progress will be tracked through your commits, so make sure to document and push your work to GitHub regularly.
 
 This project is broken down into multiple milestones:
-- **Milestone 0:** Group Contract  
-- **Milestone 1:** Prototype + Report  
-- **Milestone 1.5:** Retrospective Meeting  
-- **Milestone 2:** Refined Game + Report  
-- **Milestone 3:** Project Pitch + Presentation  
-
-
 
 <div class="accordion">
 
