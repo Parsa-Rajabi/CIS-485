@@ -24,7 +24,7 @@ This project is broken down into multiple milestones:
 - **Milestone 2:** Refined Game + Report  
 - **Milestone 3:** Project Pitch + Presentation  
 
----
+
 
 <div class="accordion">
 
@@ -36,6 +36,8 @@ This project is broken down into multiple milestones:
 **Objective:** Establish group expectations, assign roles, and set up collaboration tools.  
 
 As part of this milestone, you will meet with your group to establish a **Group Contract**. This contract will outline your team’s expectations, roles, and responsibilities to ensure smooth collaboration throughout the project. 
+
+Download group contract templates from D2L Brightspace assignment page.
 
 **Possible roles you can assign:**  
 - Project Manager (coordinates deadlines, oversees progress)  
@@ -54,7 +56,7 @@ During this process, your group project manager will also create a **private** G
 
 </details>
 
----
+
 
 <details>
 <summary><b>Milestone 1: Gamified Ethical Case Study Prototype + Brief Report</b></summary>
@@ -101,7 +103,7 @@ Write a brief (3 page max) document including:
 - The **PDF documentation**, named: `Project_G#_M1.pdf` (must include your public game URL on the cover page) 
 
 </details>
----
+
 
 <details>
 <summary><b>Milestone 1.5: Retrospective Meeting</b></summary>
@@ -130,7 +132,7 @@ You may choose to use online templates or tools to facilitate your retrospective
 
 </details>
 
----
+
 
 <details>
 <summary><b>Milestone 2: Refined Game + Report</b></summary>
@@ -173,7 +175,7 @@ Use the following suggested headings in your report:
 
 </details>
 
----
+
 
 <details>
 <summary><b>Milestone 3: Project Pitch + Presentation</b></summary>
@@ -205,7 +207,7 @@ Due to the online nature of this course, your presentation should be recorded as
 
 </details>
 
----
+
 
 <details>
 <summary><b>Group Project Expectations & Policy</b></summary>
