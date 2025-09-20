@@ -91,6 +91,9 @@ Write a brief (3 page max) document including:
 - **Draft List of Ethical Dilemmas** your players will face
 - Any **external references** in IEEE citation format (if applicable)
 
+### AI Disclosure 
+- Every member must submit an [AI usage disclosure form](https://forms.office.com/r/jLUZtdGJrC) for this milestone. 
+
 ### Submission Instructions (one submission per group)
 - Export your Twine game as HTML and submit with the filename `A2_G#_GameName.html` 
 - The **PDF documentation**, named: `Project_G#_M1.pdf` (must include your public game URL on the cover page) 
@@ -109,7 +112,7 @@ As part of the course Learning Logs, other students in the class will be providi
 
 During this phase, your group will review the feedback received and hold a **retrospective meeting** to reflect on your teamwork and project progress. This is an opportunity to discuss what went well, what could be improved, and how to apply these lessons moving forward. Document the key takeaways and action items from this meeting.
 
-**During this meeting:**  
+### During this meeting:
 - Reflect on how each member performed in their assigned role.  
 - Decide if any roles should change for Milestone 2 (recommended to rotate roles so everyone gets experience in different areas).
 - Document key lessons learned and action items (such as what to keep and what to improve).  
@@ -120,7 +123,10 @@ During this phase, your group will review the feedback received and hold a **ret
 
 You may choose to use online templates or tools to facilitate your retrospective meeting, such as [Miro](https://miro.com/templates/retrospective/) or [Figma](https://www.figma.com/community/team-meetings/retrospective?editor_type=figjam).
 
-**Deliverables:**  
+### AI Disclosure 
+- Every member must submit an [AI usage disclosure form](https://forms.office.com/r/jLUZtdGJrC) for this milestone. 
+
+### Submission Instructions 
 - Submit a 1-page (with signatures) summary of your retrospective discussion as a PDF named `Project_G#_M1.5.pdf`.
 
 </details>
@@ -162,6 +168,9 @@ Use the following suggested headings in your report:
    - Include a breakdown of group roles and contributions in percentage 
    - Include any external references in IEEE citation format (if applicable)
 
+### AI Disclosure 
+- Every member must submit an [AI usage disclosure form](https://forms.office.com/r/jLUZtdGJrC) for this milestone. 
+
 ### Submission Instructions
 - Submit your final Twine game as `A2_G#_FinalGame.html`.  
 - Submit your final report as `Project_G#_M2.pdf`.  
@@ -193,6 +202,9 @@ Due to the online nature of this course, your presentation should be recorded as
 - Each group member must speak for **at least 30 seconds**  
 - Use clear, professional, and easy-to-follow slides  
 - Disclose any AI use for subtitles or content in your AI-policy form  
+
+### AI Disclosure 
+- Every member must submit an [AI usage disclosure form](https://forms.office.com/r/jLUZtdGJrC) for this milestone. 
 
 ### Submission Instructions
 - Embed the video link in the first slide (use an unlisted YouTube link or accessible OneDrive/Google Drive link)  

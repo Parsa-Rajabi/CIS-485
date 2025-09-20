@@ -30,6 +30,9 @@ _No submission required for part 1. Continue with part 2 for submission details.
 > [!WARNING]
 > In order to complete the assignment, you must pass the Knowledge Consolidation Exercise.  You can take the exercise as many times as you need to pass.  You must pass with a score of 80% or higher.
 
+### AI Disclosure 
+- All submissions must be accompanied by a completed [AI usage disclosure form](https://forms.office.com/r/jLUZtdGJrC).
+
 ## Submission
 
 Once you have completed the TCPS 2: CORE-2022 course, submit a PDF of your Certificate of Completion to the Assignment 1 submission folder on D2L Brightspace.
