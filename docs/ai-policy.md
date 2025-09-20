@@ -6,33 +6,54 @@
 
 ## Policy on the Use of AI Content Generators for Coursework.
 
-As Chat Generative Pre-trained Transformer (ChatGPT) gains traction, its impact on post-secondary education is increasingly being debated. Some argue that it will make education more accessible, while others worry about its potential to replace human teachers. In this course policy, I will outline how I will tackle this challenge in COMP 350 - User Interface Design and Programming. Please note that this policy only applies to COMPT 350 AB1 in Winter 2025.
-
-In a nutshell, the use of AI tools is permitted for all course content such assignments, learning logs. Using tools such as ChatGPT will not be allowed during in-person midterm. As part of the course policy, students are required to disclose any use of AI tools for each submission. Failure to follow this policy will be considered a violation of the course/university's academic policy.
+Generative AI is now part of the computing landscape. In this course, AI tools are allowed with guardrails. You may use them to support your learning, and you must do so carefully, transparently, and in line with academic integrity.
 
 ## General Guidelines
 
 ![](assets/genAI-guide.jpeg)
 
-## I view AI tools as a powerful resource that you can learn to embrace.
+## For Learning
 
-The goal is to develop your resilience to automation, as these tools will become increasingly prevalent in the future. By incorporating these tools into your work process, you will be able to focus on skills that will remain relevant despite the rise of automation. Furthermore, I believe that these tools can be beneficial for students that consider English as their second and those who have been disadvantaged, allowing them to express their ideas in a more articulate and efficient manner.
+If used appropriately, AI can be a valuable learning aid. It can help you explore alternatives, check your understanding, and practice explanations before you head into industry. This course/section is a safe place to learn these skills. You are expected to experiment with AI in bounded ways, reflect on what helps, and build habits that transfer to professional environments.
 
-## Using AI for learning 
+**Good uses, with intent:**
+- Clarify a concept, then restate it in your own words and cite the tool.
+- Brainstorm cases studies, then revise and add original content yourself.
+- Ask for counterexamples to stress test your design or argument.
 
-I encourage you to use AI tools to help you learn and develop your understanding of the course material. For example, you can use AI tools to generate summaries of readings, create flashcards, or even generate questions to test your knowledge. Throughout the course, I will provide you with resources (e.g. prompts) and guidance on how to use these tools effectively. You can use these tools to test your understanding of the material, but you should not rely on them as the sole source of information.
+**Not substitutes for learning:**
+- Do not outsource reasoning, design decisions, or original analysis.
+- Do not skip assigned readings or required steps because a tool summarized them. While summaries can be helpful for a quick overview, they are not a substitute for engaging with the material yourself. 
 
-## I am aware that there are risks involved in allowing the use of AI tools in your deliverables.
+## For exams (Quizzes)
 
-Therefore, I ask that you read this carefully and use the tools responsibly and ethically.
+Given the nature of an online course, it is not practical to fully monitor or restrict the use of AI tools during exams and quizzes. While monitoring software exists, I have chosen not to use it, as strict enforcement would conflict with creating a welcoming and inclusive learning environment that I strive to foster.  
 
-Firstly, it is important to note that AI tools are susceptible to errors and may incorporate discriminatory ideas in their output. As a student, **it is your responsibility to ensure the quality and appropriateness of the work you submit in this course**.
+Instead, the exams and quizzes in this course are intentionally designed so that success depends on your **active participation** in all course components, including both live and asynchronous activities. The questions are structured to reward genuine engagement and understanding. In other words, relying on AI tools during an exam or quiz will not help you arrive at the correct answers and may even lead you astray.  
 
-Secondly, please be mindful of the data you provide to these systems, as your assignments and learning logs may contain private information, not just your own but also that of others. For example, you should never enter the names of your classmates or the individuals who are peer reviewing, into generative AI tools such as ChatGPT. 
+## Prompting
 
-Thirdly, there is a **risk of inadvertently plagiarizing** when using these tools. Many AI chatbots and image generators create content based on existing bodies of work without proper citation. In addition, other students may use these tools to generate content that is similar to yours. Therefore, it is important to **cite your sources** and **use the tools responsibly**. **Our plagiarism policy will apply to every course submissions, and "AI did it!" will not excuse any plagiarism**. 
+Prompting is the primary way you interact with these systems. Effective prompts are specific, scoped, and testable.
 
-Lastly, be aware of the dangers of becoming overly dependent on these tools. While they can be incredibly useful, relying on them too much can diminish your own critical thinking and writing skills.
+**Practical tips**
+- State the task, constraints, and success criteria.  
+- Provide small, worked examples, then ask for one more.  
+- Ask the model to list assumptions, then verify each one.  
+- Iterate. Shorten or refocus when the output drifts.
+
+## Risk
+
+As an educator, I have a professional and ethical responsibility to inform you of the risks. These AI systems are trained on large bodies of text and images (often, without consent from the original creators). They may remix existing works without citation, reproduce bias, invent fictional sources, and generate content that is similar to other students’ output (after all, most students use similar prompts and tools).
+
+There is a **risk of inadvertently plagiarizing** when using these tools. Many AI chatbots and image generators create content based on existing works without proper attribution. Other students may also produce similar content using similar prompts. Therefore, you must **cite your sources** and **use these tools responsibly**. **Our plagiarism policy applies to every submission, and “AI did it” will not excuse any plagiarism.**
+
+## Your responsibility
+
+1) **Quality and appropriateness.** AI tools can be wrong and can reproduce discriminatory ideas. It is **your responsibility** to ensure the quality, correctness, and suitability of everything you submit.  
+2) **Data care.** Be mindful of what you paste into these systems. Your assignments and learning logs may contain private information, including that of others. Do not enter classmates’ names, peer reviewers’ names, or any sensitive details into AI tools.  
+3) **Healthy dependency.** Overreliance can erode your own critical thinking and writing. Use AI to augment your process, not to replace it.
+
+---
 
 ## For every assignment submission, you are required to submit an "AI usage disclosure" 
 
@@ -40,7 +61,7 @@ Submitting this disclosure will help us understand and mitigate the risks associ
 
 ## For every learning log submission, you are required to disclose the use of AI tools
 
-For every learning log submission, students will include a brief statement declaring how much AI was used in their response. This declaration is based on the AI Usage Scale provided in the syllabus and detailed below. The declaration will help the teaching team and your peers understand the context of your work.
+For every learning log submission, students will include a brief statement declaring how much AI was used in their response. This declaration is based on the AI Usage Scale provided below. The declaration will help the teaching team and your peers understand the context of your work.
 
 Similar to the AI usage disclosure for assignments, failure to include this statement will be considered a violation of the academic policy and a penalty of `-25%` will be applied to your grade if the disclosure is not included in your submission.
 
@@ -93,8 +114,8 @@ Grading will be done based on the rubric on an absolute scale, the use of AI too
 
 **Please note that this policy on the use of AI tools is up for change as the term progresses. Changes will be communicated in-class and via this page.**
 
-Questions about this policy can be directed to the instructor via email with the following email header: _[COMP 350 - AI Policy]_.
-
 ### Acknowledgements
 
-This policy was originally developed by [Dongwook Yoon](https://dwyoon.com/) at UBC and refined through the feedback of students from multiple courses at UBC, SFU, Northeastern University and UFV. 
+This policy was developed based on the output of our in-class activity and discussion on September 16. 
+
+The original inspiration for this policy came from [Dongwook Yoon](https://dwyoon.com/) at UBC and similiar versions were implemented in courses across UBC, SFU, UFV and Northeastern University.
