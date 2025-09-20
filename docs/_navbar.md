@@ -2,4 +2,5 @@
 - [Schedule + Notes](home.md)
 - [Assignment](assignment.md)
 - [Project](project.md)
+- [AI Policy](ai-policy.md)
 - [Feedback](feedback.md)

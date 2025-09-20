@@ -192,6 +192,10 @@ Requests must include a written letter for the re-marking and be submitted to th
 
 The re-marking request will be reviewed by the instructor and if accepted, the item will be re-marked in its entirety. This may result in a higher, unchanged, or lower mark overall which will be final. 
 
+### AI Policy
+
+Please refer to the [AI Policy page](ai-policy.md) for detailed information on the use of AI tools in this course.
+
 ### Academic Integrity
 
 Academic Integrity is important to me and I know it is to most students. Cheating is never worth the risk to your personal and professional reputation. I expect students to be truthful and honest in their work. This means that any work you submit for individual evaluation should be yours alone and that you recognize the work of others if you use their ideas, thoughts or material. The assignments have been designed to ensure that you learn the material. I ensure that all students are graded fairly and will take action against students who violate the [academic dishonesty policy 70](https://www.ufv.ca/media/assets/secretariat/policies/Student-Academic-Misconduct-(70)-Procedures.pdf). Students who engage in any acts of falsification, misrepresentation, or deception will face penalties for violating UFV policy, which can include failure in the assignment and/or a FD-Failed for Discipline grade on your transcript. Listed below are some examples of academic dishonest behavior that will result in a grade penalty:

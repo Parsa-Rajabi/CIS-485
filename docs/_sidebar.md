@@ -3,4 +3,5 @@
 - [Assignment](assignment.md)
 - [Quizzes](quizzes.md)
 - [Project](project.md)
+- [AI Policy](ai-policy.md)
 - [Feedback](feedback.md)
