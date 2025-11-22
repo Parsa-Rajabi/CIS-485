@@ -22,9 +22,9 @@ All quizzes will be conducted through D2L Brightspace. You will need to log in t
 > [!ATTENTION]
 > Make sure you're in a place with a good computer and steady internet when taking the quiz. If your computer or internet stops working during the quiz, it is up to you to get back online and finish before the time's up. 
 
-## Quiz 1 Details
-- **What**: The quiz will cover all material from the beginning of the course up to and including Week 6 (October 19). 
-- **Date & Time**: Tuesday, October 21 at 7pm PST
+## Quiz 2 Details
+- **What**: The quiz will cover all material from week 8 to and including Week 11 (November 18). 
+- **Date & Time**: Tuesday, November 25 at 7pm PST
 - **Duration**: 90 minutes; the timer starts at 7pm, if you start late, you will still only have until 8:30pm to finish. The quiz will automatically submit when time is up.
 - **Questions types**; 45 MC and True/False questions total (questions have different point values)
 - **Platform**: D2L Brightspace > Quiz Tab
