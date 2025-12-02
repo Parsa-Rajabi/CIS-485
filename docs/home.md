@@ -26,7 +26,7 @@ All course slides are password protected. Visit course info page on D2L Brightsp
 |   10    |  Nov 11  | **No Class** |               _Reading Break_               |                                      |                   |                  |                                                                           |
 |   11    |  Nov 18  |    `Live`    |            Intellectual Property            | [Slides](http://tiny.cc/485-F25-W11) |                   |                  |                               M1.5 (Nov 17)                               |
 |   12    |  Nov 25  |   **Quiz**   |                      -                      |                Quiz 2                |                   |                  |                                                                           |
-|   13    |  Dec 2   |    `Live`    |  Technical Presentations + Course Wrap Up   |                Slides                |    LL4 (Dec 3)    |                  |                                M2 (Dec 4)                                 |
+|   13    |  Dec 2   |    `Live`    |  Technical Presentations + Course Wrap Up   | [Slides](http://tiny.cc/485-F25-W13) |    LL4 (Dec 3)    |                  |                                M2 (Dec 4)                                 |
 |   14    |  Dec 5   |    Async.    |               Learning Log 4                |                                      |                   |                  |                                M3 (Dec 5)                                 |
 
 
